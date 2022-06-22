@@ -58,7 +58,7 @@ line-height:normal;position:absolute;bottom:0;right:0;left:0;z-index:99;margin:0
   color: #f2f2f2;
   font-size: 12px;
   padding: 8px 12px;
-  position: fixed;
+  position: absolute;
   top: 20px;
 }
 
