@@ -42,7 +42,7 @@
 /* Caption text */
 .textslideshow {
   color: #f2f2f2;
-  font-size: 15px;
+  font-size: 12px;
   padding: 8px 12px;
   position: absolute;
   bottom:4px;right:0;left:0;
@@ -51,7 +51,6 @@
   background-color:rgba(0,0,0,0.5);
   line-height:normal;
 }
-line-height:normal;position:absolute;bottom:0;right:0;left:0;z-index:99;margin:0;padding:0 7px 3px 7px;color:#fff;background-color:rgba(0,0,0,0.5
 
 /* Number text (1/3 etc) */
 .numbertext {
