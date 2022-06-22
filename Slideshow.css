@@ -16,7 +16,7 @@
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 0;
+  top: 50%;
   width: auto;
   margin-top: -22px;
   padding: 16px;
@@ -59,7 +59,7 @@ line-height:normal;position:absolute;bottom:0;right:0;left:0;z-index:99;margin:0
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
-  top: 0;
+  top: 8px;
 }
 
 /* The dots/bullets/indicators */
