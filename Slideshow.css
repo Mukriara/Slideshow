@@ -36,7 +36,7 @@
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color:rgba(112, 8, 144, 1.0);
+  background-color:rgba(92, 51, 144, 1);
 }
 
 /* Caption text */
@@ -48,7 +48,7 @@
   bottom:4px;right:0;left:0;
   width: 100%;
   text-align: center;
-  background-color:rgba(144, 14, 144, 1.0);
+  background-color:rgba(91, 50, 143, 0.5);
   line-height:normal;
 }
 
