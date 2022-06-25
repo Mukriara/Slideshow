@@ -48,7 +48,7 @@
   bottom:4px;right:0;left:0;
   width: 100%;
   text-align: center;
-  background-color:rgba(0,0,0,0.5);
+  background-color:rgba(144, 14, 144, 1.0);
   line-height:normal;
 }
 
@@ -74,7 +74,7 @@
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-color: #5f259f;
 }
 
 /* Fading animation */
